@@ -1,5 +1,4 @@
-﻿
-namespace Fasetto.Word
+﻿namespace Fasetto.Word
 {
     /// <summary>
     /// A page of the application
